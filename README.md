@@ -1,26 +1,32 @@
-### Hi there, I am Black yang👋
+<p align="center"><img width="100%" src="./assets/header.png" /></p>
 
-A Front end developer from BeiJing, China.
+### Hi there, I am Black Yang👋
 
+> A Front end developer from **BeiJing, China**.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yyt520&?theme=gruvbox&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+### 🏗️ Learning:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yyt520&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<code><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/></code>
+<code><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></code>
+<code><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/></code>
+<code><img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/></code>
+<code><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/></code>
 
+### 📫 Reach me:
 
+- **E-mail** : 18810892921@qq.com
 
+> 我是一个又菜有爱玩的coder ❤️
 
-<!--
-**yyt520/yyt520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🏠 Blog:
 
-Here are some ideas to get you started:
+- **[https://juejin.cn/user/4415264213974222](https://juejin.cn/user/4415264213974222)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Stats:
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=yyt520&show_icons=true&theme=buefy&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyt520&layout=compact&theme=buefy&hide_border=true" alt="" /> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+### 📈 Activity Graph:
+
+![](https://activity-graph.herokuapp.com/graph?username=li-jia-nan&theme=react-dark)
