@@ -14,14 +14,15 @@
 
 ### 📫 Reach me:
 
-- **E-mail** : 18810892921@qq.com
+- **E-mail** : 18810892921@163.com
 
 > 我是一个又菜有爱玩的coder ❤️
 
 ### 🏠 Blog:
 
 - **[https://juejin.cn/user/4415264213974222](https://juejin.cn/user/4415264213974222)**
-
+- **[https://yutaoj.gitee.io/myblog/](https://yutaoj.gitee.io/myblog/)**
+- 
 ### 📊 Stats:
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=yyt520&show_icons=true&theme=buefy&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyt520&layout=compact&theme=buefy&hide_border=true" alt="" /> |
@@ -29,4 +30,4 @@
 
 ### 📈 Activity Graph:
 
-![](https://activity-graph.herokuapp.com/graph?username=li-jia-nan&theme=react-dark)
+![](https://activity-graph.herokuapp.com/graph?username=yyt520&theme=react-dark)
