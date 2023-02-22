@@ -1,4 +1,4 @@
-<p align="center"><img width="100%" src="./assets/header.png" /></p>
+<p align="center"><img width="100%" src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5e0425315c4649e09e7713ea18741278~tplv-k3u1fbpfcp-no-mark:240:240:240:160.awebp?" /></p>
 
 ### Hi there, I am Black Yang👋
 
