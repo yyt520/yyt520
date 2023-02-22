@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-https://link.zhihu.com/?target=https%3A//github-readme-stats.vercel.app/api%3Fusername%3Dyyt520%26show_icons%3Dtrue%26theme%3Ddark%26count_private%3Dtrue
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yyt520)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **yyt520/yyt520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
