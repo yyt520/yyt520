@@ -29,7 +29,7 @@
 
 ### 📚知识图谱
 
-- **[11](http://yutaoj.gitee.io/black-javascript-guidebook/)**
+- **[JavaScript Guidebook:](http://yutaoj.gitee.io/black-javascript-guidebook/)** JavaScript 知识图谱 - ECMAScript | DOM | BOM | HTML5 | 计算机网络 | 设计模式
 - **[http://yutaoj.gitee.io/black-react-guidebook/](http://yutaoj.gitee.io/black-react-guidebook/)**
 - **[http://yutaoj.gitee.io/black-webpack-guidebook/](http://yutaoj.gitee.io/black-webpack-guidebook/)**
 - **[http://yutaoj.gitee.io/black-devops-guidebook/](http://yutaoj.gitee.io/black-devops-guidebook/)**
