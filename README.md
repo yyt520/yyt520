@@ -27,7 +27,7 @@
 - **[http://retaroct-ui.codeape.site/](http://retaroct-ui.codeape.site/)**
 - **[http://yutaoj.gitee.io/black-slider/](http://yutaoj.gitee.io/black-slider/)**
 
-### 📚知识图谱
+### 📚个人知识图谱
 
 - **[JavaScript Guidebook: ](http://yutaoj.gitee.io/black-javascript-guidebook/)** JavaScript 知识图谱 - ECMAScript | DOM | BOM | HTML5 | 计算机网络 | 设计模式
 - **[React Guidebook: ](http://yutaoj.gitee.io/black-react-guidebook/)** React 知识图谱 - 基本概念 | 进阶用法 | 框架生态 | 前沿技术 | 源码核心
