@@ -28,6 +28,7 @@
 - **[http://yutaoj.gitee.io/ahooks-code-analysis/](http://yutaoj.gitee.io/ahooks-code-analysis/)**
 - **[http://retaroct-ui.codeape.site/](http://retaroct-ui.codeape.site/)**
 - **[http://yutaoj.gitee.io/black-slider/](http://yutaoj.gitee.io/black-slider/)**
+- **[前端埋点监控: ](https://yutaoj.gitee.io/black-web-tracing/)** 为前端项目提供完善的监控手段
 
 ### 📚个人知识图谱
 
