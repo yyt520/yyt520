@@ -42,7 +42,7 @@
 - **[DevOps Guidebook: ](https://yyt520.github.io/black-devops-guidebook/)** DevOps 知识图谱 - Linux | Nginx | 数据库 | 部署 | DevOps
 - **[Vue Guidebook: ](https://yyt520.github.io/black-vue-guidebook/)** Vue 知识图谱 - 基本概念 | 响应式原理 | 编译原理 | 框架生态
 - **[CSS Guidebook: ](https://yyt520.github.io/black-css-guidebook/)** CSS 知识图谱 - 特性 | 属性 | 布局 | 响应式 | 动画
-- **[Node Guidebook: ]https://yyt520.github.io/black-node-guidebook/)** Node.js 知识图谱 - 模块 | 异步编程 | 进程 | I/O | 服务端应用
+- **[Node Guidebook: ](https://yyt520.github.io/black-node-guidebook/)** Node.js 知识图谱 - 模块 | 异步编程 | 进程 | I/O | 服务端应用
 - **[TypeScript Guidebook: ](https://yyt520.github.io/black-typescript-guidebook/)** TypeScript 知识图谱 - 静态类型检查 | 语法基础 | 配置使用 | 编译原理
 - **[Cross Platform Guidebook: ](https://yyt520.github.io/black-cross-platform-guidebook/)** 跨平台开发知识图谱 - HybridApp、ReactNative、小程序、Flutter、Electron
 - **[Data Structure and Algorithms Guidebook: ](https://yyt520.github.io/black-data-structure-and-algorithms-guidebook/)** 数据结构与算法知识图谱 - 数据结构 | 算法 | 编程实现
