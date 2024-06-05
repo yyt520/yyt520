@@ -21,7 +21,7 @@
 ### 🏠 Blog:
 
 - **[https://juejin.cn/user/4415264213974222](https://juejin.cn/user/4415264213974222)**
-- **[https://yutaoj.gitee.io/myblog/](https://yutaoj.gitee.io/myblog/)**
+- **[https://yyt520.github.io/myblog/](https://yyt520.github.io/myblog/)**
 - **[https://yyt520.github.io/black-proapp](https://yyt520.github.io/black-proapp)**
 - **[http://yutaoj.gitee.io/black-ui/](http://yutaoj.gitee.io/black-ui/)**
 - **[https://yyt520.github.io/black-ui-mobile/](https://yyt520.github.io/black-ui-mobile)**
