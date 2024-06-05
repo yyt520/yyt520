@@ -22,32 +22,32 @@
 
 - **[https://juejin.cn/user/4415264213974222](https://juejin.cn/user/4415264213974222)**
 - **[https://yutaoj.gitee.io/myblog/](https://yutaoj.gitee.io/myblog/)**
-- **[http://yutaoj.gitee.io/black-proapp/](http://yutaoj.gitee.io/black-proapp/)**
+- **[https://yyt520.github.io/black-proapp](https://yyt520.github.io/black-proapp)**
 - **[http://yutaoj.gitee.io/black-ui/](http://yutaoj.gitee.io/black-ui/)**
-- **[http://yutaoj.gitee.io/black-ui-mobile](http://yutaoj.gitee.io/black-ui-mobile)**
-- **[http://yutaoj.gitee.io/ahooks-code-analysis/](http://yutaoj.gitee.io/ahooks-code-analysis/)**
+- **[https://yyt520.github.io/black-ui-mobile]https://yyt520.github.io/black-ui-mobile)**
+- **[https://yyt520.github.io/ahooks-code-analysis/](https://yyt520.github.io/ahooks-code-analysis/)**
 - **[http://retaroct-ui.codeape.site/](http://retaroct-ui.codeape.site/)**
-- **[http://yutaoj.gitee.io/black-slider/](http://yutaoj.gitee.io/black-slider/)**
+- **[https://yyt520.github.io/black-slider](https://yyt520.github.io/black-slider)**
 
 
 ### 🏠 能效部分:
-- **[前端埋点监控（https://yutaoj.gitee.io/black-web-tracing/）: ](https://yutaoj.gitee.io/black-web-tracing/)** 为前端项目提供完善的监控手段
+- **[前端埋点监控（https://yyt520.github.io/black-web-tracing/）: ](https://yyt520.github.io/black-web-tracing/)** 为前端项目提供完善的监控手段
 
 
 ### 📚个人知识图谱
 
-- **[JavaScript Guidebook: ](http://yutaoj.gitee.io/black-javascript-guidebook/)** JavaScript 知识图谱 - ECMAScript | DOM | BOM | HTML5 | 计算机网络 | 设计模式
-- **[React Guidebook: ](http://yutaoj.gitee.io/black-react-guidebook/)** React 知识图谱 - 基本概念 | 进阶用法 | 框架生态 | 前沿技术 | 源码核心
-- **[Webpack Guidebook: ](http://yutaoj.gitee.io/black-webpack-guidebook/)** Webpack 知识图谱 - 模块化 | 基础概念 | 工作原理 | 实战应用
-- **[DevOps Guidebook: ](http://yutaoj.gitee.io/black-devops-guidebook/)** DevOps 知识图谱 - Linux | Nginx | 数据库 | 部署 | DevOps
-- **[Vue Guidebook: ](http://yutaoj.gitee.io/black-vue-guidebook/)** Vue 知识图谱 - 基本概念 | 响应式原理 | 编译原理 | 框架生态
-- **[CSS Guidebook: ](http://yutaoj.gitee.io/black-css-guidebook/)** CSS 知识图谱 - 特性 | 属性 | 布局 | 响应式 | 动画
-- **[Node Guidebook: ](http://yutaoj.gitee.io/black-node-guidebook/)** Node.js 知识图谱 - 模块 | 异步编程 | 进程 | I/O | 服务端应用
-- **[TypeScript Guidebook: ](http://yutaoj.gitee.io/black-typescript-guidebook/)** TypeScript 知识图谱 - 静态类型检查 | 语法基础 | 配置使用 | 编译原理
-- **[Cross Platform Guidebook: ](http://yutaoj.gitee.io/black-cross-platform-guidebook/)** 跨平台开发知识图谱 - HybridApp、ReactNative、小程序、Flutter、Electron
-- **[Data Structure and Algorithms Guidebook: ](http://yutaoj.gitee.io/black-data-structure-and-algorithms-guidebook/)** 数据结构与算法知识图谱 - 数据结构 | 算法 | 编程实现
-- **[Visualizaition Guidebook: ](http://yutaoj.gitee.io/black-visualization-guidebook/)** 前端图像学知识图谱 - Canvas | SVG | WebGL
-- **[Database Guidebook: ](http://yutaoj.gitee.io/black-database-guidebook/)** MySQL、MongoDB
+- **[JavaScript Guidebook: ](https://yyt520.github.io/black-javascript-guidebook/)** JavaScript 知识图谱 - ECMAScript | DOM | BOM | HTML5 | 计算机网络 | 设计模式
+- **[React Guidebook: ](https://yyt520.github.io/black-react-guidebook/)** React 知识图谱 - 基本概念 | 进阶用法 | 框架生态 | 前沿技术 | 源码核心
+- **[Webpack Guidebook: ](https://yyt520.github.io/black-webpack-guidebook/)** Webpack 知识图谱 - 模块化 | 基础概念 | 工作原理 | 实战应用
+- **[DevOps Guidebook: ](https://yyt520.github.io/black-devops-guidebook/)** DevOps 知识图谱 - Linux | Nginx | 数据库 | 部署 | DevOps
+- **[Vue Guidebook: ](https://yyt520.github.io/black-vue-guidebook/)** Vue 知识图谱 - 基本概念 | 响应式原理 | 编译原理 | 框架生态
+- **[CSS Guidebook: ](https://yyt520.github.io/black-css-guidebook/)** CSS 知识图谱 - 特性 | 属性 | 布局 | 响应式 | 动画
+- **[Node Guidebook: ]https://yyt520.github.io/black-node-guidebook/)** Node.js 知识图谱 - 模块 | 异步编程 | 进程 | I/O | 服务端应用
+- **[TypeScript Guidebook: ](https://yyt520.github.io/black-typescript-guidebook/)** TypeScript 知识图谱 - 静态类型检查 | 语法基础 | 配置使用 | 编译原理
+- **[Cross Platform Guidebook: ](https://yyt520.github.io/black-cross-platform-guidebook/)** 跨平台开发知识图谱 - HybridApp、ReactNative、小程序、Flutter、Electron
+- **[Data Structure and Algorithms Guidebook: ](https://yyt520.github.io/black-data-structure-and-algorithms-guidebook/)** 数据结构与算法知识图谱 - 数据结构 | 算法 | 编程实现
+- **[Visualizaition Guidebook: ](https://yyt520.github.io/black-visualization-guidebook/)** 前端图像学知识图谱 - Canvas | SVG | WebGL
+- **[Database Guidebook: ](https://yyt520.github.io/black-database-guidebook/)** MySQL、MongoDB
 
 ### 📊 Stats:
 
