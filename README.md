@@ -22,9 +22,9 @@
 
 - **[https://juejin.cn/user/4415264213974222](https://juejin.cn/user/4415264213974222)**
 - **[https://yyt520.github.io/myblog/](https://yyt520.github.io/myblog/)**
-- **[https://yyt520.github.io/black-proapp](https://yyt520.github.io/black-proapp)**
+- **[https://yyt520.github.io/black-proapp/](https://yyt520.github.io/black-proapp/)**
 - **[http://yutaoj.gitee.io/black-ui/](http://yutaoj.gitee.io/black-ui/)**
-- **[https://yyt520.github.io/black-ui-mobile/](https://yyt520.github.io/black-ui-mobile)**
+- **[https://yyt520.github.io/black-ui-mobile/](https://yyt520.github.io/black-ui-mobile/)**
 - **[https://yyt520.github.io/ahooks-code-analysis/](https://yyt520.github.io/ahooks-code-analysis/)**
 - **[http://retaroct-ui.codeape.site/](http://retaroct-ui.codeape.site/)**
 - **[https://yyt520.github.io/black-slider](https://yyt520.github.io/black-slider)**
